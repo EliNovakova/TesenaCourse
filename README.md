@@ -1,2 +1,3 @@
 # TesenaCourse
-GitHub cvičení
+GitHub a Devops cvičení
+
